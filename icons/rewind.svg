@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Rewind extension icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="55%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="25%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="112" fill="url(#glow)"/>
+  <path d="M382 152a154 154 0 1 1-43-41" fill="none" stroke="#7dd3fc" stroke-width="34" stroke-linecap="round"/>
+  <path d="M377 97l-12 83 76-35z" fill="#7dd3fc"/>
+  <path d="M300 174v164L176 256z" fill="#f8fafc"/>
+  <path d="M196 174v164L72 256z" transform="translate(100 0)" fill="#f8fafc" opacity="0.98"/>
+  <path d="M382 86v42M361 107h42" stroke="#bfdbfe" stroke-width="16" stroke-linecap="round"/>
+</svg>
