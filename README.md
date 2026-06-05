@@ -1,6 +1,8 @@
 # Rewind
 
-Rewind is a Firefox WebExtension that temporarily restores the page state you just lost after a reload, fast click-away, SPA route change, or accidental navigation.
+Firefox Add-on: https://addons.mozilla.org/addon/rewindpagerestorer/
+
+Rewind helps recover page content you accidentally lose after a reload, redirect, fast click-away, or Single Page App navigation.
 
 It captures a short-lived local snapshot of visible page content and restores it in an overlay so you can recover titles, thumbnails, images, and links.
 
